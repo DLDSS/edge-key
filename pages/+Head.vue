@@ -1,7 +1,7 @@
 <!-- https://vike.dev/Head -->
 
 <template>
-  <link rel="icon" :href="faviconUrl" />
+  <link rel="icon" :href="faviconUrllllll" />
 </template>
 
 <script setup lang="ts">
